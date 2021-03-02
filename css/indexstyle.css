@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: black;
+}
+.main-con-fluid{
+    margin: 0;
+    padding: 0;
+    background-color:  rgb(245, 245, 245);
+}
+.top-con-fluid{
+    padding-top: 20px;
+}
+.toprow{
+    border-radius: 100px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.searhbox{
+    border-radius: 50px;
+}
+.btnsignIn:hover{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    transition: 0.3s;
+}
+
+/* Banner */
+.bs-confluid{
+    background-color: rgb(255, 225, 225);
+    padding-bottom: 50px;
+}
+.a-menu{
+    font-size: 18px;
+}
+.a-menu:hover{
+    color: red;
+}
+.banner-contianer{
+    border: solid 1px red;
+    padding: 0;
+}
+.banner-contianer img{
+    width: 100%;
+    height: 100%;
+    /* box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; */
+}
+.booklist{
+    margin-top: 10px;
+}
+.card-body image{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
